@@ -1,5 +1,5 @@
 /**
- * Reads a specified range of cells in a specified Google Sheet.
+ * Reading information (a specified range of cells) from a specified Google Sheet.
  *
  * 
  */
