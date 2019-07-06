@@ -1,6 +1,8 @@
 # Google-Apps-Script
 
-## Custom Functions in Google Sheets
+## Google Sheets
+
+### Custom Functions
 1. [Creating a custom function](https://developers.google.com/apps-script/guides/sheets/functions#creating_a_custom_function)
 2. [Using a custom function](https://developers.google.com/apps-script/guides/sheets/functions#using_a_custom_function)
 3. [Guidelines for custom functions](https://developers.google.com/apps-script/guides/sheets/functions#guidelines_for_custom_functions)
