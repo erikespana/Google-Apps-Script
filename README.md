@@ -16,3 +16,16 @@ https://github.com/GioBonvi/GoogleContactsEventsNotifier
 ## Remember to call
 Use Google Calendar to remind you who to call and why.
 Can the calendar API launch the phone app with some text describing the purpose of the call?
+
+## Spreadsheet applications
+
+- Calculator
+- Database
+- Analysis
+- Modeling
+- Simulations
+- List management
+- Data visualization
+- Report generation
+- Workflow
+- Documentation
