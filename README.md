@@ -1,4 +1,6 @@
-# Google-Apps-Script
+# Google Apps Script
+
+A Javascript-based scripting language.
 
 ## Google Sheets
 
