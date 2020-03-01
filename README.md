@@ -11,8 +11,10 @@ A Javascript-based scripting language.
 
 ### Permissions
 
-myaccount.google.com
-Sign in & Security > Connected apps & sites
+1. Visit https://myaccount.google.com
+2. Sign in
+3. Click Security
+4. Manage third party access
 
 ### Custom Functions
 1. [Creating a custom function](https://developers.google.com/apps-script/guides/sheets/functions#creating_a_custom_function)
@@ -21,15 +23,25 @@ Sign in & Security > Connected apps & sites
 
 ### Running your script automatically
 
-Simple bount scripts, opening a doc
-Installable - bound scripts - time-driven
-Time-driven: Resources > Current Project's triggers > Click to add one > Select function
+- Simple bount scripts, opening a doc
+- Installable - bound scripts - time-driven
+
+#### Time-driven
+1. Resources
+2. Current Project's triggers
+3. Click to add one
+4. Select function
 
 ### Creating a menu
 
-Behavior-driven: Will use on-open to add custom menu to spreadsheet.
+Behavior-driven: Will use `on-open` to add custom menu to spreadsheet.
 
 ### Protected function names
+
+### Input options
+
+Use dedicated cells to tell your script which cells to process.
+You can provide a row number, column letter, or a range.
 
 ## Samples
 https://developers.google.com/apps-script/articles/
